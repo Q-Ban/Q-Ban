@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/Q-Ban/Q-Ban/blob/main/image/wallpaper.gif" alt="Hickiando" height="506" width="835" />
+<img align="center" src="https://github.com/Q-Ban/Q-Ban/blob/main/img/wallpaper.gif" alt="Hickiando" height="506" width="835" />
 
 <h1 align="center"style="color:green;">Hi 👋, I'm QBan!</h1>
 <h3 align="center" style="color:red;">  CTF Player | Cybersecurity enthusiast | Red Team</h3>
@@ -10,7 +10,7 @@
 <h3 align="left">:bust_in_silhouette: About Me</h3>
 <h4 align="justificate"  color="red"> Currently studying cross-platform application development. While learning new hacking techniques in my free time. I also like to compete for fun, so you will see me in future ctfs. Have Fun!</h4>
 
-<img align="right" width="400" src="https://github.com/Q-Ban/Q-Ban/blob/main/image/gg.gif" alt="Hickiando"/>
+<img align="right" width="400" src="https://github.com/Q-Ban/Q-Ban/blob/main/img/gg.gif" alt="Hickiando"/>
 
 <h3 align="left">:wrench: Languages and Tools:</h3>
 <p align="left"> 
