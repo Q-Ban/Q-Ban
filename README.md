@@ -2,7 +2,7 @@
 
 <h1 align="center"style="color:green;">Hi 👋, I'm QBan!</h1>
 <h3 align="center" style="color:red;">  CTF Player | Cybersecurity enthusiast | Red Team</h3>
-<p align="center" style="color:red;">Vulnerable Machine • Content Development • Offensive Security • Hobby:globe_with_meridians:Explorer</p>
+<p align="center" style="color:red;">Vulnerable Machine • Content Development • Offensive Security • Hobby:pirate_flag: Explorer</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Q-Ban&label=Profile+views&color=b60e0e&style=plastic" alt="Q-Ban" /></p>
 
