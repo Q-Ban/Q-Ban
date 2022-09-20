@@ -1,6 +1,6 @@
 <img align="center" src="https://github.com/Q-Ban/Q-Ban/blob/main/img/wallpaper.gif" alt="Hickiando" height="506" width="835" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=4000&pause=1000&color=FF0055&center=true&vCenter=true&multiline=true&width=1100&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+QBan!;CTF+Player+%7C+Cybersecurity+enthusiast+%7C+Red+Team;Vulnerable+Machine+%E2%80%A2+Content+Development+%E2%80%A2+Offensive+Security+%E2%80%A2+Hobby%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8FExplorer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=5000&pause=1500&color=FF0055&center=true&vCenter=true&multiline=true&width=1100&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+QBan!;CTF+Player+%7C+Cybersecurity+enthusiast+%7C+Red+Team;Vulnerable+Machine+%E2%80%A2+Content+Development+%E2%80%A2+Offensive+Security+%E2%80%A2+Hobby%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8FExplorer" alt="Typing SVG" /></a>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Q-Ban&label=Profile+views&color=b60e0e&style=plastic" alt="Q-Ban" /></p>
 
