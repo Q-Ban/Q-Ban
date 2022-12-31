@@ -42,6 +42,6 @@
 </p>
 <h3 align="left">:envelope: My Socials</h3>
 <p align="left">
-<a href="https://github.com/xQBan" target="blank"><img align="center" src="https://raw.githubusercontent.com/FedericoManzano/bodystyle-iconos/master/svg/bs-github.svg" alt="xQBan" height="30" width="40" /></a>
+<a href="https://xQBan.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/FedericoManzano/bodystyle-iconos/master/svg/bs-github.svg" alt="xQBan" height="30" width="40" /></a>
 <a href="https://twitter.com/xQBan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nn1da" height="30" width="40" /></a>
 </p>
